@@ -1,0 +1,4 @@
+*.swp
+initiate-repo
+buildc.sh
+teardownc.sh
